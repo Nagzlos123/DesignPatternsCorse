@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\bin\Debug\Proxy.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\obj\Debug\Proxy.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Proxy\obj\Debug\Proxy.pdb

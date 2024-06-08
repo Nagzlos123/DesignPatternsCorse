@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\bin\Debug\Observer.exe.config
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\bin\Debug\Observer.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\bin\Debug\Observer.pdb
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\obj\Debug\Observer.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Observer\obj\Debug\Observer.pdb

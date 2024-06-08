@@ -1,0 +1,7 @@
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\bin\Debug\Decorator.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\obj\Debug\Decorator.exe
+C:\Users\Media\source\repos\DesignPatternsCorse\Decorator\obj\Debug\Decorator.pdb
